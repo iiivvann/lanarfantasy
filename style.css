@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&family=Pangolin&display=swap');
+
+ h1,h2{
+    font-family: "Pangolin", cursive;
+    color:#D67CF0;
+ }
+
+ body{
+   font-family: "LXGW WenKai TC", cursive;
+ }
+
+ img{
+   width: 350px;
+   height: 350px;
+   border-radius: 10px;
+ }
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: #C246FF;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+a:hover {
+    box-shadow: 3px 5px 10px 0 ;
+    
+}
+
+p{
+  color:#B837EF;
+}
+
+html{
+  background-color: #F3E0F4;
+}
